@@ -74,13 +74,6 @@
         "disabled": false,
         "settings": {}
       },
-      "733389323033596483": {
-        "type": "shopify://apps/okendo/blocks/theme-settings/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
-        "disabled": true,
-        "settings": {
-          "show_preview_data": true
-        }
-      },
       "15241865094622821750": {
         "type": "shopify://apps/b2b-wholesale-pricing-goat/blocks/trade-main/ea4b73df-921f-41b8-bd8e-89b18e3da15b",
         "disabled": true,
@@ -103,10 +96,12 @@
           "input_border_radius": 0
         }
       },
-      "4252583770683550135": {
-        "type": "shopify://apps/redo/blocks/redo_app_embed/c613644b-6df4-4d11-b336-43a5c06745a1",
+      "733389323033596483": {
+        "type": "shopify://apps/okendo/blocks/theme-settings/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
         "disabled": false,
-        "settings": {}
+        "settings": {
+          "show_preview_data": true
+        }
       }
     },
     "color_schemes": {
