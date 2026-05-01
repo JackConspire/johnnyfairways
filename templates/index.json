@@ -1,0 +1,480 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_8THArJ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_kjrUFk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/camo-hero-model.png",
+            "mobile_image": "shopify://shop_images/Hero-Camo9flag-mobile.png",
+            "subheading": "Quick Dry + Perforated Hats",
+            "title": "New Arrival: 9 Flag Camo",
+            "mobile_text_position": "place-self-start-center text-center",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "content_max_width": 780,
+            "button_1_text": "SHOP NOW",
+            "button_1_link": "shopify://products/quickdry-perforated-hat-9-flag-camo",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(54, 54, 54, 0), rgba(4, 4, 4, 0.35) 100%)"
+          }
+        },
+        "image_cKiH7x": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/9flag-hero-highres.png",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#ffffff",
+            "button_1_text_color": "#000000",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 50,
+            "text_color": "#ffffff",
+            "border_color": "",
+            "gradient_overlay": ""
+          }
+        },
+        "image_EhtCCN": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/DSC8667.jpg",
+            "mobile_image": "shopify://shop_images/DSC8869.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#000000",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(28, 27, 27, 0.15) 3%, rgba(0, 0, 0, 0) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "image_kjrUFk",
+        "image_cKiH7x",
+        "image_EhtCCN"
+      ],
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": false,
+        "media_size": "fill",
+        "show_initial_transition": false,
+        "autoplay": false,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "df93a007-98af-432c-8e07-65604d95fdbb": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--16211399475368__df93a007-98af-432c-8e07-65604d95fdbb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "UPF 50+ Sun Sleeves",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16211399475368__df93a007-98af-432c-8e07-65604d95fdbb-richtext-1": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p>Add your own custom content to give more information about your store, availability details...</p>"
+          }
+        },
+        "a407f0ec-2aa0-4637-90b6-703744e1ec53": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Shop Sun sleeves",
+            "url": "shopify://collections/sun-sleeves",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16211399475368__df93a007-98af-432c-8e07-65604d95fdbb-heading-1",
+        "template--16211399475368__df93a007-98af-432c-8e07-65604d95fdbb-richtext-1",
+        "a407f0ec-2aa0-4637-90b6-703744e1ec53"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "image_size": "fill",
+        "image": "shopify://shop_images/DSC8897-2.jpg",
+        "mobile_image": "shopify://shop_images/DSC8897.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-end-start text-start",
+        "desktop_text_position": "sm:place-self-end-start sm:text-start",
+        "overlay_color": "#000000",
+        "overlay_opacity": 10
+      }
+    },
+    "f1a91a55-6b21-4420-92cf-5465bc265c94": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--16185739706536__f1a91a55-6b21-4420-92cf-5465bc265c94-1684340297fed3ccc5-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "hats",
+            "products_count": 11,
+            "title": "",
+            "link_url": "shopify://collections/hats",
+            "link_text": "View All"
+          }
+        }
+      },
+      "block_order": [
+        "template--16185739706536__f1a91a55-6b21-4420-92cf-5465bc265c94-1684340297fed3ccc5-0"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DSC8667.jpg",
+            "mobile_image": "shopify://shop_images/DSC8869.jpg",
+            "subheading": "",
+            "title": "",
+            "mobile_text_position": "place-self-end-start text-start",
+            "desktop_text_position": "sm:place-self-end-start sm:text-start",
+            "content_max_width": 780,
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_1_style": "solid",
+            "button_1_background": "#000000",
+            "button_1_text_color": "#ffffff",
+            "button_2_text": "",
+            "button_2_link": "",
+            "button_2_style": "outline",
+            "button_2_background": "#ffffff",
+            "button_2_text_color": "#000000",
+            "background": "",
+            "background_opacity": 0,
+            "text_color": "#000000",
+            "border_color": "",
+            "gradient_overlay": "linear-gradient(180deg, rgba(28, 27, 27, 0.15) 3%, rgba(0, 0, 0, 0) 100%)"
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "allow_transparent_header": true,
+        "show_next_section_button": false,
+        "media_size": "fill",
+        "show_initial_transition": false,
+        "autoplay": false,
+        "autoplay_pause_on_video": true,
+        "cycle_speed": 5,
+        "background": "#000000",
+        "controls_color": "#ffffff"
+      }
+    },
+    "12d7abae-a82f-4431-b0e4-84596502059d": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--16211399475368__12d7abae-a82f-4431-b0e4-84596502059d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Blade Collar Polos",
+            "heading_tag": "h2"
+          }
+        },
+        "1cfd16c7-ddfa-4c51-95e8-50d9165cb326": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Shop Polos",
+            "url": "shopify://collections/blade-collars",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16211399475368__12d7abae-a82f-4431-b0e4-84596502059d-heading-1",
+        "1cfd16c7-ddfa-4c51-95e8-50d9165cb326"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/DSC6967.png",
+        "mobile_image": "shopify://shop_images/DSC7862_f8ad94e5-b104-4590-aae8-ba5f4ce463da.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-end-start text-start",
+        "desktop_text_position": "sm:place-self-end-start sm:text-start",
+        "overlay_color": "#000000",
+        "overlay_opacity": 10
+      }
+    },
+    "b035a481-3b39-4db1-bf04-1f884ee5649b": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--16185739706536__b035a481-3b39-4db1-bf04-1f884ee5649b-1684340297fed3ccc5-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "blade-collars",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "697a415e-7cfc-4b21-ab55-7e61bc6d6d4c": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "mock-neck-shirts",
+            "products_count": 8,
+            "title": "Mock Neck Shirts",
+            "link_url": "shopify://products/mock-neck-dusty-green",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "template--16185739706536__b035a481-3b39-4db1-bf04-1f884ee5649b-1684340297fed3ccc5-0",
+        "697a415e-7cfc-4b21-ab55-7e61bc6d6d4c"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Polos & Mock Necks"
+      }
+    },
+    "315a8dcf-0c7a-42dd-974d-d354ca389e57": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--16211399475368__315a8dcf-0c7a-42dd-974d-d354ca389e57-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Quick-Dry Hats",
+            "heading_tag": "h2"
+          }
+        },
+        "template--16211399475368__315a8dcf-0c7a-42dd-974d-d354ca389e57-richtext-1": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": ""
+          }
+        },
+        "c949a0d1-bca7-437a-9ed6-c96b5974e34b": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "shop hats",
+            "url": "shopify://collections/hats",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16211399475368__315a8dcf-0c7a-42dd-974d-d354ca389e57-heading-1",
+        "template--16211399475368__315a8dcf-0c7a-42dd-974d-d354ca389e57-richtext-1",
+        "c949a0d1-bca7-437a-9ed6-c96b5974e34b"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "image_size": "auto",
+        "image": "shopify://shop_images/DSC00800_e858a4f6-a6cb-4b34-8abc-82e7bc61195d.jpg",
+        "mobile_image": "shopify://shop_images/DSC8909_91f4fb72-ab52-448f-89de-bb671beefc4e.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "md",
+        "mobile_text_position": "place-self-end-start text-start",
+        "desktop_text_position": "sm:place-self-end-start sm:text-start",
+        "overlay_color": "#000000",
+        "overlay_opacity": 15
+      }
+    },
+    "71cc68f3-c86c-4dfd-b17d-bddce3476a97": {
+      "type": "shop-the-look",
+      "blocks": {
+        "template--16211399475368__71cc68f3-c86c-4dfd-b17d-bddce3476a97-look-1": {
+          "type": "look",
+          "settings": {
+            "image": "shopify://shop_images/DSC8227_004efe03-8b41-44ac-bdb7-2d5c61a01e28.jpg",
+            "hot_spots_background": "#ffffff",
+            "product_1": "mock-neck-dusty-green",
+            "product_1_horizontal_position": 65,
+            "product_1_vertical_position": 35,
+            "product_2": "tech-joggers-grey",
+            "product_2_horizontal_position": 49,
+            "product_2_vertical_position": 86,
+            "product_3": "",
+            "product_3_horizontal_position": 66,
+            "product_3_vertical_position": 42,
+            "product_4": "",
+            "product_4_horizontal_position": 85,
+            "product_4_vertical_position": 85
+          }
+        }
+      },
+      "block_order": [
+        "template--16211399475368__71cc68f3-c86c-4dfd-b17d-bddce3476a97-look-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "Shop the look",
+        "content": "",
+        "popover_title": "Shop the look"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "tech-joggers",
+            "products_count": 4,
+            "title": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured-collection-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "NEW RELEASE"
+      }
+    },
+    "a286053f-c65d-4449-b1c5-27b1448fde76": {
+      "type": "featured-collections",
+      "blocks": {
+        "b79846b9-d983-4f74-bdd2-0e12bfa44b5e": {
+          "type": "collection",
+          "settings": {
+            "collection": "sun-sleeves",
+            "products_count": 2,
+            "title": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "b79846b9-d983-4f74-bdd2-0e12bfa44b5e"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Limited Time discount"
+      }
+    }
+  },
+  "order": [
+    "slideshow_8THArJ",
+    "df93a007-98af-432c-8e07-65604d95fdbb",
+    "f1a91a55-6b21-4420-92cf-5465bc265c94",
+    "slideshow",
+    "12d7abae-a82f-4431-b0e4-84596502059d",
+    "b035a481-3b39-4db1-bf04-1f884ee5649b",
+    "315a8dcf-0c7a-42dd-974d-d354ca389e57",
+    "71cc68f3-c86c-4dfd-b17d-bddce3476a97",
+    "featured-collections",
+    "a286053f-c65d-4449-b1c5-27b1448fde76"
+  ]
+}

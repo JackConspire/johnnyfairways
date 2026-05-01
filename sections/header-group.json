@@ -1,0 +1,86 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "0c69b372-1a35-4e97-ae61-1b9aebc61483": {
+          "type": "message",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "0c69b372-1a35-4e97-ae61-1b9aebc61483"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "scheme-4",
+        "enable_sticky": false,
+        "autoplay": true,
+        "cycle_speed": 5,
+        "desktop_font_size": 11,
+        "mobile_font_size": 10
+      }
+    },
+    "e3c3f69c-53c6-4d19-af8f-44bf180f49e6": {
+      "type": "countdown-condensed",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "content": "CYBER MONDAY – 50% off SItewide",
+        "link_text": "Shop NOw",
+        "link_url": "shopify://collections/blade-collars",
+        "expiration_date": "2024-12-02 23:00",
+        "expiration_behavior": "leave",
+        "desktop_justification": "center"
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "color_scheme": "",
+        "enable_sticky": true,
+        "hide_on_scroll": true,
+        "show_separation_border": true,
+        "reduce_padding": true,
+        "logo": "shopify://shop_images/Group_105617.png",
+        "logo_max_width": 70,
+        "logo_mobile_max_width": 60,
+        "menu": "main-menu",
+        "sidebar_menu": "main-menu",
+        "menu_open_trigger": "hover",
+        "menu_text_font": "heading",
+        "enable_search": true,
+        "sidebar_color_scheme": "",
+        "sidebar_text_font": "heading",
+        "sidebar_show_dividers": true,
+        "sidebar_open_second_level_menus": false,
+        "layout": "logo_center_navigation_inline",
+        "show_icons": true,
+        "show_country_selector": false,
+        "show_country_name": false,
+        "show_country_flag": true,
+        "show_locale_selector": true,
+        "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/JF-White-Logo.png"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "e3c3f69c-53c6-4d19-af8f-44bf180f49e6",
+    "header"
+  ]
+}

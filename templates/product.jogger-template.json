@@ -1,0 +1,169 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "6de550be-85fb-4ef0-9b2a-5d682660ac74": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "6b8812bb-bc70-413d-b4e3-3e1e6a248b2b": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false,
+            "show_below_gallery": false
+          }
+        },
+        "dd923bd6-bf12-41ec-8a6f-98d2ea55d7fe": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "size_chart_page": "{{ product.metafields.custom.size_guide.value }}"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "share_buttons": {
+          "type": "share_buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "6de550be-85fb-4ef0-9b2a-5d682660ac74",
+        "6b8812bb-bc70-413d-b4e3-3e1e6a248b2b",
+        "description",
+        "dd923bd6-bf12-41ec-8a6f-98d2ea55d7fe",
+        "quantity_selector",
+        "buy_buttons",
+        "share_buttons"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "container_size": "xl",
+        "product_info_size": 35,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": true,
+        "desktop_media_layout": "grid_2x_highlighted",
+        "desktop_media_grid_gap": 5,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
+      }
+    },
+    "5d050970-1a6c-46fc-87a2-4eb27f872520": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16273128325288__5d050970-1a6c-46fc-87a2-4eb27f872520-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Details"
+          }
+        },
+        "template--16273128325288__5d050970-1a6c-46fc-87a2-4eb27f872520-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Supreme Mobility",
+            "heading_tag": "h1"
+          }
+        },
+        "template--16273128325288__5d050970-1a6c-46fc-87a2-4eb27f872520-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We've emphasized flexibility by blending 10% spandex into our joggers. This provides the necessary flex whether your swinging a club or bending to read a putt. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16273128325288__5d050970-1a6c-46fc-87a2-4eb27f872520-subheading-1",
+        "template--16273128325288__5d050970-1a6c-46fc-87a2-4eb27f872520-heading-1",
+        "template--16273128325288__5d050970-1a6c-46fc-87a2-4eb27f872520-richtext-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/DSC00589_copy.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "169929291572e126f3": {
+      "type": "apps",
+      "blocks": {
+        "32d72d74-ca94-4005-92ce-d613986b3ff2": {
+          "type": "shopify://apps/okendo/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "32d72d74-ca94-4005-92ce-d613986b3ff2"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5d050970-1a6c-46fc-87a2-4eb27f872520",
+    "169929291572e126f3",
+    "recently-viewed-products"
+  ]
+}

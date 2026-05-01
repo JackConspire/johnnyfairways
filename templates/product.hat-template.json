@@ -1,0 +1,172 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "6de550be-85fb-4ef0-9b2a-5d682660ac74": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "d212a9fa-bcad-4ae1-b30b-5619c4790cdc": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false,
+            "show_below_gallery": false
+          }
+        },
+        "dd923bd6-bf12-41ec-8a6f-98d2ea55d7fe": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": "{{ product.metafields.custom.size_guide.value }}"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "share_buttons": {
+          "type": "share_buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "6de550be-85fb-4ef0-9b2a-5d682660ac74",
+        "d212a9fa-bcad-4ae1-b30b-5619c4790cdc",
+        "description",
+        "dd923bd6-bf12-41ec-8a6f-98d2ea55d7fe",
+        "quantity_selector",
+        "buy_buttons",
+        "share_buttons"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "container_size": "xl",
+        "product_info_size": 35,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": true,
+        "desktop_media_layout": "grid",
+        "desktop_media_grid_gap": 5,
+        "mobile_controls": "dots",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
+      }
+    },
+    "dedff9f6-c584-40db-b9b2-a4cec1ee252f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16211399639208__dedff9f6-c584-40db-b9b2-a4cec1ee252f-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Details"
+          }
+        },
+        "template--16211399639208__dedff9f6-c584-40db-b9b2-a4cec1ee252f-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Quick-Dry + Perforated",
+            "heading_tag": "h1"
+          }
+        },
+        "template--16211399639208__dedff9f6-c584-40db-b9b2-a4cec1ee252f-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Using a combination of quick-dry materials and back panel perforation, our hats provide lasting cool comfort for hot days on the course.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16211399639208__dedff9f6-c584-40db-b9b2-a4cec1ee252f-subheading-1",
+        "template--16211399639208__dedff9f6-c584-40db-b9b2-a4cec1ee252f-heading-1",
+        "template--16211399639208__dedff9f6-c584-40db-b9b2-a4cec1ee252f-richtext-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/DSC8909_91f4fb72-ab52-448f-89de-bb671beefc4e.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "169929290114ede923": {
+      "type": "apps",
+      "blocks": {
+        "09120ebe-5234-49c3-b08b-e832acbfa3d5": {
+          "type": "shopify://apps/okendo/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "09120ebe-5234-49c3-b08b-e832acbfa3d5"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "dedff9f6-c584-40db-b9b2-a4cec1ee252f",
+    "169929290114ede923",
+    "recently-viewed-products"
+  ]
+}

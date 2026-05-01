@@ -1,0 +1,220 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "6de550be-85fb-4ef0-9b2a-5d682660ac74": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h3"
+          }
+        },
+        "dd2f6327-a237-4612-bb99-1780dde88ded": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true,
+            "show_below_gallery": false
+          }
+        },
+        "baf27f70-5be3-4d3c-9fd9-fea9da103aa4": {
+          "type": "accordion",
+          "settings": {
+            "show_below_gallery": false,
+            "icon": "none",
+            "title": "Fabric + Details",
+            "content": "<p><strong>Material:</strong> 100% Polyester Mesh, 140 gsm<br/><strong>Collar: </strong>Rib-knit mock neck collar<br/><strong>Color:</strong> Dusty green<br/>Heat transfer rubberized Johnny Fairways logotype on the left sleeve<br/>Regular fit<br/>Made in Turkey</p>",
+            "liquid": "",
+            "page": ""
+          }
+        },
+        "dd923bd6-bf12-41ec-8a6f-98d2ea55d7fe": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "size_chart_page": "{{ product.metafields.custom.size_guide.value }}"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "share_buttons": {
+          "type": "share_buttons",
+          "settings": {}
+        },
+        "01834d72-4fb9-4732-9db2-4f503a2d872d": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Lightweight 140 GSM",
+            "link": "",
+            "icon": "picto-info",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "333025a7-ce32-4c81-9d33-e9956ead6a24": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Polyester Mesh - Breathable + Flexible",
+            "link": "",
+            "icon": "picto-leaf",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "a46e9a3e-1768-49a8-a1a8-5c3d0f833f11": {
+          "type": "feature_with_icon",
+          "disabled": true,
+          "settings": {
+            "text": "Free Shipping",
+            "link": "",
+            "icon": "picto-delivery-truck",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "6de550be-85fb-4ef0-9b2a-5d682660ac74",
+        "dd2f6327-a237-4612-bb99-1780dde88ded",
+        "description",
+        "baf27f70-5be3-4d3c-9fd9-fea9da103aa4",
+        "dd923bd6-bf12-41ec-8a6f-98d2ea55d7fe",
+        "quantity_selector",
+        "buy_buttons",
+        "share_buttons",
+        "01834d72-4fb9-4732-9db2-4f503a2d872d",
+        "333025a7-ce32-4c81-9d33-e9956ead6a24",
+        "a46e9a3e-1768-49a8-a1a8-5c3d0f833f11"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "container_size": "xl",
+        "product_info_size": 33,
+        "show_sticky_add_to_cart": true,
+        "center_basic_info": true,
+        "desktop_media_layout": "grid_2x_highlighted",
+        "desktop_media_grid_gap": 5,
+        "mobile_controls": "thumbnails",
+        "enable_media_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3
+      }
+    },
+    "2dbc59e8-572d-4257-a5a6-1ab8c5dca2f1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16283584004264__2dbc59e8-572d-4257-a5a6-1ab8c5dca2f1-subheading-1": {
+          "type": "subheading",
+          "settings": {
+            "text": "Feature"
+          }
+        },
+        "template--16283584004264__2dbc59e8-572d-4257-a5a6-1ab8c5dca2f1-heading-1": {
+          "type": "heading",
+          "settings": {
+            "text": "extended mock collar",
+            "heading_tag": "h1"
+          }
+        },
+        "template--16283584004264__2dbc59e8-572d-4257-a5a6-1ab8c5dca2f1-richtext-1": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>These shirts were designed to be for the golf course, so the collar size is extended to match minimum golf club requirements. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16283584004264__2dbc59e8-572d-4257-a5a6-1ab8c5dca2f1-subheading-1",
+        "template--16283584004264__2dbc59e8-572d-4257-a5a6-1ab8c5dca2f1-heading-1",
+        "template--16283584004264__2dbc59e8-572d-4257-a5a6-1ab8c5dca2f1-richtext-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/DSC8340.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "1699292949b9ffffcb": {
+      "type": "apps",
+      "blocks": {
+        "da0ea0b6-b14a-4608-ac33-3ba28b31753e": {
+          "type": "shopify://apps/okendo/blocks/reviews-widget/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+          "settings": {
+            "product": "{{product}}",
+            "widget_type": "reviews_widget"
+          }
+        }
+      },
+      "block_order": [
+        "da0ea0b6-b14a-4608-ac33-3ba28b31753e"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "separate_section_with_border": true,
+        "color_scheme": "",
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_count": 9,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "",
+        "title": "Recently viewed products",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2dbc59e8-572d-4257-a5a6-1ab8c5dca2f1",
+    "1699292949b9ffffcb",
+    "recently-viewed-products"
+  ]
+}

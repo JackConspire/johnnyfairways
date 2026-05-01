@@ -1,0 +1,57 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "17339523564d6ef597": {
+      "type": "apps",
+      "blocks": {
+        "b2b_wholesale_trade_discounts_trade_form_atpAaa": {
+          "type": "shopify://apps/b2b-wholesale-pricing-goat/blocks/trade-form/ea4b73df-921f-41b8-bd8e-89b18e3da15b",
+          "settings": {
+            "form_id": "40",
+            "title": "Sign up to be apart of our custom club program",
+            "subheading": "<p>Welcome to our Trade Program enrollment! We're excited you're here!</p>",
+            "submit": "Signup",
+            "success": "<p>Your submission has been successful. Thank you!</p>",
+            "error": "<p>Oops! Something went wrong with your submission. Please try again later.</p>",
+            "background": "#FFFFFF",
+            "text_color": "#000000",
+            "primary_button_background": "#121212",
+            "primary_button_text_color": "#FFFFFF",
+            "success_color": "#2E7D32",
+            "error_color": "#D32F2F"
+          }
+        }
+      },
+      "block_order": [
+        "b2b_wholesale_trade_discounts_trade_form_atpAaa"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "17339523564d6ef597"
+  ]
+}
