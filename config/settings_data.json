@@ -69,11 +69,6 @@
         "disabled": false,
         "settings": {}
       },
-      "15241865094622821750": {
-        "type": "shopify://apps/b2b-wholesale-trade-discounts/blocks/trade-main/ea4b73df-921f-41b8-bd8e-89b18e3da15b",
-        "disabled": false,
-        "settings": {}
-      },
       "4308064663874972733": {
         "type": "shopify://apps/conspire-product-bundle-packs/blocks/main/f5e7a7d6-d952-4df6-9abf-8146b71778ca",
         "disabled": false,
@@ -91,9 +86,18 @@
           "show_preview_data": true
         }
       },
+      "15241865094622821750": {
+        "type": "shopify://apps/b2b-wholesale-pricing-goat/blocks/trade-main/ea4b73df-921f-41b8-bd8e-89b18e3da15b",
+        "disabled": true,
+        "settings": {
+          "button_border_radius": 12,
+          "input_border_radius": 8,
+          "hide_due_date": false
+        }
+      },
       "4252583770683550135": {
         "type": "shopify://apps/redo/blocks/redo_app_embed/c613644b-6df4-4d11-b336-43a5c06745a1",
-        "disabled": true,
+        "disabled": false,
         "settings": {}
       }
     },
