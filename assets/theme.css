@@ -8351,15 +8351,3 @@ ul {
   display: -webkit-box;
   overflow: hidden;
 }
-
-/* Override Re:do app hiding the native checkout button */
-cart-drawer [name="checkout"] {
-  display: flex !important;
-  visibility: visible !important;
-  max-width: 100% !important;
-  max-height: none !important;
-  overflow: visible !important;
-  padding: revert !important;
-  margin: revert !important;
-  border: revert !important;
-}
