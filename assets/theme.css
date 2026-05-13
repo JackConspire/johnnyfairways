@@ -4343,6 +4343,11 @@ product-rerender {
   row-gap: 1.25rem !important;
 }
 
+.cart-drawer__complementary-products .\@large\:horizontal-product-card__button {
+  --button-background: var(--text-color);
+  --button-text-color: var(--background-without-opacity);
+}
+
 .cart-drawer__button-price {
   align-items: center;
   display: flex;
